@@ -46,7 +46,7 @@
     "babel-loader": "8.2.2",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24",
     "case-sensitive-paths-webpack-plugin": "2.4.0",
-    "clean-webpack-plugin": "4.0.0-alpha.0",
+    "clean-webpack-plugin": "4.0.0",
     "commander": "8.1.0",
     "copy-webpack-plugin": "9.0.1",
     "core-js": "3.16.0",
